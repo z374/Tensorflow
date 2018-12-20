@@ -64,6 +64,7 @@ with g.as_default():
 ## Sessione
 with tf.Session(graph = g) as sess:
     sess.run(init)
+    tf.summary.FileWriter(logdir= './grafo/', graph=g)
     for _ in range(800):
         sess.run(minimizza, feed_dict= {x:X_tr, y:y_tr})
 
