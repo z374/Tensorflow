@@ -12,7 +12,7 @@
 
 **Struttura del grafo:**
 
-![alt text](https://raw.githubusercontent.com/z374/Tensorflow/master/Linear_Regression/strut.PNG)
+![alt text](https://raw.githubusercontent.com/z374/Tensorflow/master/Linear_Regression/strutt.PNG)
 
 **Esempio output:**
 
