@@ -17,3 +17,5 @@
 **Esempio output:**
 
 ![alt text](https://raw.githubusercontent.com/z374/Tensorflow/master/Linear_Regression/output.PNG)
+
+Perché questa immagine è sgranata? Perché avere un monitor che si spinge oltre l'hd pone grandi interrogativi.
