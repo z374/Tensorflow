@@ -1,4 +1,4 @@
-In questo file vengono:
+In maniac_regression.py vengono:
 
 1) Generate coppie di numeri casuali (x,y), ben descritte da una relazione linare y = mx + q. I dati sono affetti da eteroschedasticità.
 2) Generato un grafo in Tensorflow per il calcolo dei coefficienti m e q secondo la minimizzazione dei quadrati. 
